@@ -1,2 +1,2 @@
 # Discord
-A simple discord web using tailwind
+> A simple discord web using tailwind
