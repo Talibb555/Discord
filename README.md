@@ -1,2 +1,2 @@
-# Discord
+## Disc
 > A simple discord web using tailwind
